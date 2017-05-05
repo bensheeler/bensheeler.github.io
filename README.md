@@ -51,9 +51,14 @@ C#, Javascript, CSS, HTML, Java, SQL, .NET, ASP.NET MVC, Web API, Angular JS, Xa
 * Built a cross platform mobile application using Xamarin
 *	Used ASP.NET MVC, Google Charts, jQuery, Bootstrap, SQL Server, and Entity Framework
 
+
 <style>
 .markdown-body {
     box-shadow: 0px 0px 5px grey;
-    padding: 10px;
+    padding: 15px;
+    background-color: white;
+}
+body {
+    background-color: #cccccc;
 }
 </style>
