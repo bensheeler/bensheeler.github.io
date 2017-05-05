@@ -1,12 +1,6 @@
 # Ben Sheeler
-[bensheeler@gmail.com](mailto:bensheeler@gmail.com)
-
+[bensheeler@gmail.com](mailto:bensheeler@gmail.com) |
 [github.com/bensheeler](https://www.github.com/bensheeler)
-
-## Technologies
-Languages: C#, Javascript, CSS, HTML, Java, SQL
-
-Frameworks: .NET, ASP.NET MVC, Web API, Angular JS, Xamarin
 
 ## Work Experience
 ### Software Engineer
@@ -25,6 +19,9 @@ Frameworks: .NET, ASP.NET MVC, Web API, Angular JS, Xamarin
 *Computer Aid, Inc., April 2013 - May 2014*
 * Learned various technologies such as C#, .NET, and SQL through a training program
 * Maintained a large web application and data system with direction from senior developers
+
+### Technologies
+C#, Javascript, CSS, HTML, Java, SQL, .NET, ASP.NET MVC, Web API, Angular JS, Xamarin, Entity Framework
 
 ## Education
 ### Georgia Institute of Technology
