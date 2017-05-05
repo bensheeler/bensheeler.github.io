@@ -32,7 +32,24 @@ Frameworks: .NET, ASP.NET MVC, Web API, Angular JS, Xamarin
 * Will start in fall 2017
 
 ### Messiah College
-* B.S. Computer and Information Scinces
+* B.S. Computer and Information Sciences
 * 2010 - 2014
 
 ## Projects
+### Tolls Image Verification System
+* Developed a web application that processed image data to manually verify the findings of the automated image processer 
+* Focused mainly on testing and developing resuable components and providers in Typescript and C#
+* Assisted in creating a Continuous Integration and Deployment pipeline
+* Used ASP.NET Web API, Angular 2, Typescript, Entity Framework, SQL Server
+
+### Consultant Evaluation
+* One of the Lead Developers on a web application designed to allow an agency evaluation consultants
+* Created a Continuous Integration and Deployment pipeline for all accessible environments
+* Helped design and document system architecture
+* Performed code reviews and lead automated testing effort to minimize bugs
+* Used ASP.NET MVC, Web API, Angular JS 1.x, NHibernate, Ninject, and SQL Server
+
+### Early Learning - Guiding Parents Smoothly
+* Developed a web application for aiding parents in raising young children, giving them the ability to track their child’s progress and access resources
+* Built a cross platform mobile application using Xamarin
+*	Used ASP.NET MVC, Google Charts, jQuery, Bootstrap, SQL Server, and Entity Framework
