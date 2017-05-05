@@ -50,3 +50,9 @@ C#, Javascript, CSS, HTML, Java, SQL, .NET, ASP.NET MVC, Web API, Angular JS, Xa
 * Developed a web application for aiding parents in raising young children, giving them the ability to track their child’s progress and access resources
 * Built a cross platform mobile application using Xamarin
 *	Used ASP.NET MVC, Google Charts, jQuery, Bootstrap, SQL Server, and Entity Framework
+
+<style>
+.markdown-body {
+    padding: 10px;
+}
+</style>
