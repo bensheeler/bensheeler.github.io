@@ -1,7 +1,7 @@
 # Ben Sheeler
-bensheeler@gmail.com
+[bensheeler@gmail.com](mailto:bensheeler@gmail.com)
 
-www.github.com/bensheeler
+https://www.github.com/bensheeler
 
 ## Work Experience
 
