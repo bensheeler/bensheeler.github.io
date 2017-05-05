@@ -55,10 +55,10 @@ C#, Javascript, CSS, HTML, Java, SQL, .NET, ASP.NET MVC, Web API, Angular JS, Xa
 <style>
 .markdown-body {
     box-shadow: 0px 0px 5px grey;
-    padding: 15px;
+    padding: 15px 30px 15px 30px;
     background-color: white;
 }
 body {
-    background-color: #cccccc;
+    background-color: #dddddd;
 }
 </style>
