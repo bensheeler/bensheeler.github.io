@@ -1,6 +1,8 @@
 # Ben Sheeler
 [bensheeler@gmail.com](mailto:bensheeler@gmail.com) |
-[github.com/bensheeler](https://www.github.com/bensheeler)
+[sheelersoft.com](http://sheelersoft.com) |
+[github.com/bensheeler](https://www.github.com/bensheeler) |
+[github.com/sheelersoft](https://www.github.com/sheelersoft)
 
 ## Work Experience
 ### Software Engineer
