@@ -3,7 +3,6 @@
 717-576-8947
 
 ## Work Experience
----
 
 ### **Amazon** - Software Engineer
 *June 2022 - current*
@@ -31,13 +30,11 @@
 * Implemented a CI and CD pipeline using Azure DevOps
 
 ## Education
----
 
 ### **Messiah College** - B.S. Computer and Information Science
 *Aug 2010 - May 2014*
 
 ## Skills
----
 
 C#, Javascript, Typescript, Java, Python, .NET, Angular, VueJS, AWS, Azure, SQL Server, PostgreSQL, DynamoDB
 
