@@ -1,58 +1,45 @@
 # Ben Sheeler
 [bensheeler@gmail.com](mailto:bensheeler@gmail.com) |
-[sheelersoft.com](http://sheelersoft.com) |
-[github.com/bensheeler](https://www.github.com/bensheeler) |
-[github.com/sheelersoft](https://www.github.com/sheelersoft)
+717-576-8947
 
 ## Work Experience
-### Software Engineer
-*Computer Aid, Inc., May 2014 - Current*
-* Developed web applications using ASP.NET MVC, Web API, and Angular JS
-* Developed mobile applications using Xamarin
-* Was a lead developer on multiple projects
-* Mentored Jr. Developers as they went through training
-* Focused on using modern development practices like
-  * Automated Testing
-  * Continuous Integration
-  * Cloud Development
-  * Domain Driven Design
-  
-### Software Development Intern
-*Computer Aid, Inc., April 2013 - May 2014*
-* Learned various technologies such as C#, .NET, and SQL through a training program
-* Maintained a large web application and data system with direction from senior developers
+---
 
-### Technologies
-C#, Javascript, CSS, HTML, Java, SQL, .NET, ASP.NET MVC, Web API, Angular JS, Xamarin, Entity Framework
+### **Amazon** - Software Engineer
+*June 2022 - current*
+- Enhanced the metering / billing component using Java to enable metering additional product features 
+- Improved efficiency and robustness of the metering component when processing large data sets by using multiple Dynamo Db partitions.
+- Fixed critical bugs in our infrastructure deployment logic to decrease deployment time by up to a week.
+
+### **Omnicell** - Software Engineer 3
+*November 2020 - June 2022*
+- Worked on transitioning a legacy code base to a cloud based, microservice architecture using Azure, Kubernetes, and .NET which enabled increased scalability.
+- Built front end web applications using Angular, Nx and Typescript, targeting multiple screen sizes and utilizing server side rendering to decrease load times.
+- Developed common, shareable packages for cross team use to help decrease development time on common tasks.
+
+### **Kroll** - Senior Software Engineer
+*September 2017 - Novermber 2020*
+- Migrated applications from on prem to AWS, heavily utilizing ec2.
+- Developed an application using .net core and integrating with Plaid API to track financial transactions to detect anomalous spending and alert users of potential fraud.
+- Developed a message based system using RabbitMQ to sync data in near real time between a custom application and Salesforce.
+- Updated messaging system to use multiple RabbitMQ nodes to reduce message loss to nearly 0%.
+
+### **Computer Aid, Inc** - Software Engineer
+*May 2014 - September 2017*
+* Developed web applications using ASP.NET MVC, Web API, and Angular JS
+* Mentored and trained junior developers and interns using a 4-6 week project based curriculum.
+* Implemented a CI and CD pipeline using Azure DevOps
 
 ## Education
-### Georgia Institute of Technology
-* M.S. Computer Science
-* Will start in fall 2017
+---
 
-### Messiah College
-* B.S. Computer and Information Sciences
-* 2010 - 2014
+### **Messiah College** - B.S. Computer and Information Science
+*Aug 2010 - May 2014*
 
-## Projects
-### Tolls Image Verification System
-* Developed a web application that processed image data to manually verify the findings of the automated image processer 
-* Focused mainly on testing and developing resuable components and providers in Typescript and C#
-* Assisted in creating a Continuous Integration and Deployment pipeline
-* Used ASP.NET Web API, Angular 2, Typescript, Entity Framework, SQL Server
+## Skills
+---
 
-### Consultant Evaluation
-* One of the Lead Developers on a web application designed to allow an agency evaluation consultants
-* Created a Continuous Integration and Deployment pipeline for all accessible environments
-* Helped design and document system architecture
-* Performed code reviews and lead automated testing effort to minimize bugs
-* Used ASP.NET MVC, Web API, Angular JS 1.x, NHibernate, Ninject, and SQL Server
-
-### Early Learning - Guiding Parents Smoothly
-* Developed a web application for aiding parents in raising young children, giving them the ability to track their child’s progress and access resources
-* Built a cross platform mobile application using Xamarin
-*	Used ASP.NET MVC, Google Charts, jQuery, Bootstrap, SQL Server, and Entity Framework
-
+C#, Javascript, Typescript, Java, Python, .NET, Angular, VueJS, AWS, Azure, SQL Server, PostgreSQL, DynamoDB
 
 <style>
 .markdown-body {
